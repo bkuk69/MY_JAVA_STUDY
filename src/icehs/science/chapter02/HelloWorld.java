@@ -11,8 +11,7 @@ public class HelloWorld {
 	 * 만든사람: 구병국
 	 * 만든날짜: 2018년 7월 23일
 	 * 버전 : 0.1
-	+	 */
-	+	
+	*/
 	
 	
 	public static void main(String[] args) {
