@@ -1,7 +1,7 @@
 package icehs.science.chapter06;
 
 public class Car {
-	String name = "ICE카";
+	public String name = "ICE카";
 	int oilAmount;
 	double distance;
 	
